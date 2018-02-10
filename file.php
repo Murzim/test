@@ -1,2 +1,2 @@
 <?php
-die('OK2');
+die('OK3');
